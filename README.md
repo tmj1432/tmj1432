@@ -2,7 +2,7 @@
 
 While you are here, let me introduce my repositories to you!
 
-### [GA Projects](https://github.com/tmj1432/GA-Projects)
+### :school:[GA Projects](https://github.com/tmj1432/GA-Projects)
 This repository consists of projects I completed during my time as a student in General Assembly!
 
 ## Contact me at
