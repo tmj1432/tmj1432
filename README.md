@@ -5,8 +5,8 @@
 ### :school:[GA Projects](https://github.com/tmj1432/GA-Projects):school:
 This repository consists of projects I completed during my time as a student in General Assembly!
 
-`Project 1`: Data Analysis of SAT and ACT
-
+:seedling:`Project 1`:seedling:: Data Analysis of SAT and ACT
+This was where I first learnt how to use libraries such as pandas, numpy, matplotlib and seaborn. I remembered it to be really difficult while I was doing it. Looking back, I am proud to see how far I have came... 
 
 ## Contact me at
 - 📫[LinkedIn](https://www.linkedin.com/in/tmj1432/)
