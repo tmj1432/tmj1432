@@ -1,6 +1,6 @@
 # :cow:Ming Jie's GitHub profile!:cow2:
 
-## :deciduous_tree:While you are here, let me introduce my repositories to you!:deciduous_tree: 
+## :deciduous_tree:Repositories:deciduous_tree: 
 
 ### - [HDB Resale Price Predictor Application](https://github.com/tmj1432/HDB-Resale-Price-Predictor-Application)
 
