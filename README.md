@@ -5,6 +5,9 @@
 ### :school:[GA Projects](https://github.com/tmj1432/GA-Projects):school:
 This repository consists of projects I completed during my time as a student in General Assembly!
 
+`Project 1`: Data Analysis of SAT and ACT
+
+
 ## Contact me at
 - 📫[LinkedIn](https://www.linkedin.com/in/tmj1432/)
 
