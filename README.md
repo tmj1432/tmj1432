@@ -3,7 +3,7 @@
 ## :deciduous_tree:Repositories:deciduous_tree: 
 **Click on the links to find out more!**
 - [HDB Resale Price Predictor Application](https://github.com/tmj1432/HDB-Resale-Price-Predictor-Application)
-- [Death Row-Last Statement Topic Modeling](https://github.com/tmj1432/Death-Row-Last-Statement-Topic-Modeling)
+- [Death Row Last Statement Topic Modeling](https://github.com/tmj1432/Death-Row-Last-Statement-Topic-Modeling)
 - [Capstone Project: Human Emotion Recognition](https://github.com/tmj1432/Human-Emotion-Recognition)
 - [GA Projects](https://github.com/tmj1432/GA-Projects)
 
