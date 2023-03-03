@@ -1,6 +1,6 @@
-## Hi there👋, my name is Ming Jie and welcome to my GitHub profile!
+# Ming Jie's GitHub profile!
 
-While you are here, let me introduce my repositories to you!
+## While you are here, let me introduce my repositories to you!
 ---
 ### :school:[GA Projects](https://github.com/tmj1432/GA-Projects)
 This repository consists of projects I completed during my time as a student in General Assembly!
