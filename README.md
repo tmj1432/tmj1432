@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Ming Jie and welcome to my GitHub profile!👋
+
 
 <!--
 **tmj1432/tmj1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
