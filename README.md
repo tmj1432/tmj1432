@@ -1,4 +1,6 @@
-### Hi there, my name is Ming Jie and welcome to my GitHub profile!👋
+### Hi there👋, my name is Ming Jie and welcome to my GitHub profile!
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tmj1432/)
 
 
 <!--
