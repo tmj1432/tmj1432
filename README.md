@@ -5,6 +5,8 @@
 - [HDB Resale Price Predictor Application](https://github.com/tmj1432/HDB-Resale-Price-Predictor-Application)
 - [Death Row Last Statement Topic Modeling](https://github.com/tmj1432/Death-Row-Last-Statement-Topic-Modeling)
 - [Capstone Project: Human Emotion Recognition](https://github.com/tmj1432/Human-Emotion-Recognition)
+- [Credit Card Fraud Detection](https://www.kaggle.com/code/tmj1432/credit-card-fraud-detection-smote-ensemble-model)
+- [Forecasting Book Sales](https://www.kaggle.com/code/tmj1432/tabular-playground-series-sep-2022)
 - [GA Projects](https://github.com/tmj1432/GA-Projects)
 
 
