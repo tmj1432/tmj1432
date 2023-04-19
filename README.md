@@ -2,6 +2,10 @@
 
 ## :deciduous_tree:Repositories:deciduous_tree: 
 **Click on the links to find out more!**
+
+- [DVD Rental Store Analysis](https://github.com/tmj1432/DVD-Rental-Store-Analysis)
+
+
 - [HDB Resale Price Predictor Application](https://github.com/tmj1432/HDB-Resale-Price-Predictor-Application)
 
   - Built and [deployed a predictive model on streamlit.io](https://tmj1432-hdb-resale-price-predictor-application-app-5kd0gz.streamlit.app/) framework for easy access by relevant stakeholders in mind.
