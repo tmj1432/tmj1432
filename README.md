@@ -5,6 +5,9 @@
 
 - [DVD Rental Store Analysis](https://github.com/tmj1432/DVD-Rental-Store-Analysis)
 
+  - Conducted analysis of DVD rental store database, writing PostgreSQL queries within Jupyter environment and visualised query outputs using Matplotlib and Seaborn.
+  - Identified opportunities and provided actionable insights to improve inventory and pricing strategies.
+
 
 - [HDB Resale Price Predictor Application](https://github.com/tmj1432/HDB-Resale-Price-Predictor-Application)
 
