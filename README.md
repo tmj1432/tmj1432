@@ -34,7 +34,6 @@
   - Constructed an ensemble model by combining KNN and RandomForestClassifier via soft voting, and adjusted the weights to improve performance. This approach outperformed using a single model alone.
 
 - [Forecasting Book Sales](https://www.kaggle.com/code/tmj1432/tabular-playground-series-sep-2022)
-  - Transformed a time series forecasting into a supervised learning problem and achieved an RMSE of 15, demonstrating expertise in data preprocessing and machine learning techniques.
   - Designed and developed a [dashboard on Tableau](https://public.tableau.com/app/profile/tan.ming.jie/viz/DashboardofKaggleBookstoreSales/BookSales) to monitor book sales, showcasing data visualization and dashboard creation skills, as well as an ability to deliver actionable insights to stakeholders.
   - Proposed 3 recommendations to increase revenue based on the exploratory data analysis.
 - [GA Projects](https://github.com/tmj1432/GA-Projects)
